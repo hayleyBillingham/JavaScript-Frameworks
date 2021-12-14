@@ -1,0 +1,3 @@
+[submodule "apache-cordova"]
+	path = apache-cordova
+	url = https://github.com/hayleyBillingham/apache-cordova.git
